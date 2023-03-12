@@ -27,7 +27,7 @@ app.use(user)
 app.use(admin)
 app.use(error)
 app.use('*',(error)=>{
-    console.log("isisisiisis",error.message);
+    // console.log("isisisiisis",error.message);
 })
 
 app.listen(PORT, ()=>{
