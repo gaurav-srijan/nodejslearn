@@ -1,0 +1,21 @@
+[
+	{
+		"titel": "Devworks Bootcamp",
+		"discription": "Devworks is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+		"weeks": "7",
+		"tuition": "sm",
+		"minimumSkill": "intermediate",
+		"scholarShip": true,
+		"bootcamp": "5d713995b721c3bb38c1f5d0"
+		
+	},
+	{
+        "titel": " Bootcamp",
+		"discription": "ull stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+		"weeks": "71",
+		"tuition": "sm tuition",
+		"minimumSkill": "intermediate",
+		"scholarShip": true,
+		"bootcamp": "5d725a1b7b292f5f8ceff788"
+	}
+]
